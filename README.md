@@ -1,1 +1,2 @@
-![Metrics](https://beta-metrics.lecoq.io/x97d?template=terminal&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FLondon)
+![Profile Views](https://komarev.com/ghpvc/?username=x97d&style=flat-square&color=blue)
+![Stars](https://img.shields.io/github/stars/x97d?style=flat-square&color=ffcc33&label=Stars)
